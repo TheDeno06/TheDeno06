@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deniz
 - 👀 I’m interested in fullstack programming
-- 🌱 I’m currently learning nest.js
+- 🌱 I’m currently learning openCV, openGL, REST Apis, front-end (flutter, react, react native), back-end (C#, TypeScript, C++, Java, Ruby, Rust) and DB systems
 - 💞️ I’m looking to collaborate on anything that helps me improve myself
 - 📫 How to reach me: @dnz_ds98 on instagram / deliktas.deniz98@gmail.com e-mail
 
